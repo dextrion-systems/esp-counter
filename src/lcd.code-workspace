@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "lcd2",
+			"path": "../../lcd2"
+		}
+	],
+	"settings": {}
+}
