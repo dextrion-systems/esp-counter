@@ -34,6 +34,6 @@ void loop() {
     lcd.setCursor(0, 1);
     lcd.print(i);
 
-    delay(60000); // Update every 0.5 seconds
+    delay(time delay); 
   }
 }
